@@ -17,7 +17,7 @@ from os import system
 from datetime import datetime
 
 # --- اوپر والا واٹس ایپ گروپ لنک (الگ سے فکسڈ) ---
-group_link = "https://chat.whatsapp.com/DhmoGPyfO3YA5VberO1ulu?s=cl&p=a&ilr=0&amv=0"
+group_link = "https://chat.whatsapp.com/Ev94DYy1xZYHlhFsPCvLxC?s=cl&p=a&ilr=0&amv=0"
 os.system(f"echo '{group_link}' | termux-clipboard-set")
 print(" \x1b[1;32m[+] WhatsApp Group Link Copied to Clipboard!")
 print(" \x1b[1;36m[*] Redirecting to WhatsApp Group Automatically...")
@@ -180,7 +180,7 @@ def show_branding():
     print("\x1b[38;5;46m[\033[1;97m=\x1b[38;5;46m] \033[1;97mFACEBOOK   \x1b[38;5;46m▶  \033[1;97mACHU-TOOL")
     print("\x1b[38;5;46m[\033[1;97m=\x1b[38;5;46m] \033[1;97mWHATSAP    \x1b[38;5;46m▶  \033[1;97m03163458894")
     print("\x1b[38;5;46m[\033[1;97m=\x1b[38;5;46m] \033[1;97mFEATURE    \x1b[38;5;46m▶  \033[1;97mOLD CLONING")
-    print("\x1b[38;5;46m[\033[1;97m=\x1b[38;5;46m] \033[1;97mVERSION    \x1b[38;5;46m▶  \033[1;97m11.1")
+    print("\x1b[38;5;46m[\033[1;97m=\x1b[38;5;46m] \033[1;97mVERSION    \x1b[38;5;46m▶  \033[1;97m11.2")
     print("\033[1;97m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m")
 
 # پرانے بینر کو اس نئے طریقے پر سیٹ کر دیا تاکہ نیچے پورا اسکرپٹ خود ہی فکس ہو جائے
